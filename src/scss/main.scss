@@ -1,7 +1,21 @@
-$color-orange: #f98a09;
+@import "abstracts/mixin";
+@import "abstracts/functions";
+@import "abstracts/variables";
+
+@import "base/animations";
+@import "base/base";
+@import "base/typography";
+
+// @import "components/";
+
+// @import "layout/";
+
+@import "pages/home";
+
+
 
 .main {
-  background: red;
+  background: $color-orange;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
