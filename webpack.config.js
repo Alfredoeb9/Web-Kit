@@ -6,14 +6,6 @@ const CleanWebpackPlugin = require('clean-webpack-plugin');
 var path = require('path');
 
 
-const HtmlWebPackPlugin = require("html-webpack-plugin");
-const MiniCssExtractPlugin = require("mini-css-extract-plugin");
-const OptimizeCSSAssetsPlugin = require("optimize-css-assets-webpack-plugin");
-const UglifyJsPlugin = require("uglifyjs-webpack-plugin");
-const CleanWebpackPlugin = require('clean-webpack-plugin');
-var path = require('path');
-
-
 module.exports = {
   entry: { main: './src/js/firstComp/FirstComp.js',
           Second: './src/index.js' },
