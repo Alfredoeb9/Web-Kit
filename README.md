@@ -1,5 +1,5 @@
 # Web-Kit-2018
- This was built for new web developers or developers who want to try our webpack instead of gulp. With these files you will be able to focus on the code and less on time on configuring your environment.
+ This was built for new web developers or developers who want to try our webpack instead of gulp. With these files you will be able to focus on the code and less time on configuring your environment.
  Below is a step by step entry to get started with the Web-Kit-2018
 
 ## Steps
